@@ -37,7 +37,7 @@
     "@openzeppelin/contracts-upgradeable": "^4.8.3",
     "braces": ">=3.0.2",
     "bs58": "^4.0.1",
-    "circomlib": "0.2.2",
+    "circomlib": "2.0.5",
     "circomlibjs": "^0.1.7",
     "codecov": "^3.8.2",
     "diff": ">=5.0.0",
