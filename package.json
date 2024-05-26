@@ -45,7 +45,7 @@
     "jsonfile": "^6.1.0",
     "snarkjs": "^0.4.13",
     "solhint-plugin-prettier": "^0.0.5",
-    "solidity-bytes-utils": "^0.8.0",
+    "solidity-bytes-utils": "^0.8.2",
     "solidity-coverage": "^0.7.18",
     "solium": "0.1.3"
   },
